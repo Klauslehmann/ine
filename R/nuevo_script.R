@@ -1,1 +1,0 @@
-#nnuevo script
